@@ -265,7 +265,7 @@
 }
 .icon-layers:before {
   content: "\e034";
-  color: white
+  color: #FFCB05 
 }
 .icon-menu:before {
   content: "\e601";
@@ -305,7 +305,7 @@
 }
 .icon-check:before {
   content: "\e080";
-  color: white
+  color: #FFCB05 
 }
 .icon-clock:before {
   content: "\e081";
@@ -336,7 +336,7 @@
 }
 .icon-screen-desktop:before {
   content: "\e011";
-  color:white
+  color:#FFCB05 
 }
 .icon-plane:before {
   content: "\e012";
