@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Poiret One', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
   text-transform: uppercase; }
 
@@ -165,7 +165,7 @@ section.resume-section .resume-item .resume-date {
   background-size: cover;
 }
 #mainNav {
-  font-family: 'Poiret One', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   border: none;
@@ -173,7 +173,7 @@ section.resume-section .resume-item .resume-date {
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
-    font-family: 'Poiret One', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1.1rem;
     color: #ffcb05; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -221,19 +221,11 @@ section.resume-section .resume-item .resume-date {
     padding-top: 5px;
     padding-bottom: 5px; }
     #mainNav.navbar-shrink .navbar-brand {
-      font-size: 1.5em; } }
-header.mastheads {
-  padding-top: 25px;
-  padding-bottom: 25px;
-  text-align: center;
-  
-  background: #00274c; }
-  header.masthead img {
-    display: block;
-    margin: 0 auto 5px; }
+      font-size: 1em; } }
+
 header.masthead {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   text-align: center;
   
   background: #00274c; }
@@ -241,19 +233,19 @@ header.masthead {
     display: block;
     margin: 0 auto 5px; }
   header.masthead .intro-text .hello {
-    font-family: 'Poiret One', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #fff;
     border-color: #2E0854;
-    font-size: 2em;
+    font-size: 1em;
     font-weight: 700;
     display: block;
     text-transform: uppercase; }
   header.masthead .intro-text .name {
-    font-family: 'Poiret One', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #fff;
     border-color: #2E0854;
-    font-size: 2em;
-    font-weight: 700;
+    font-size: 16px;
+    font-weight: 500;
     display: block;
     text-transform: uppercase; }
   header.masthead .intro-text .skills {
