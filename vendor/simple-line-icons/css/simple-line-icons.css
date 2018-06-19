@@ -305,7 +305,7 @@
 }
 .icon-check:before {
   content: "\e080";
-  color: #FFCB05 
+  color: #FFCB05
 }
 .icon-clock:before {
   content: "\e081";
@@ -336,7 +336,7 @@
 }
 .icon-screen-desktop:before {
   content: "\e011";
-  color:#FFCB05 
+  color: #FFCB05
 }
 .icon-plane:before {
   content: "\e012";
@@ -625,6 +625,7 @@
 }
 .icon-bulb:before {
   content: "\e076";
+  color: #FFCB05
 }
 .icon-chart:before {
   content: "\e077";
