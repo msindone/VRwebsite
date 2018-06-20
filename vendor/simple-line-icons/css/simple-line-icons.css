@@ -650,6 +650,7 @@
 }
 .icon-envelope:before {
   content: "\e086";
+  color:#FFCB05
 }
 .icon-eye:before {
   content: "\e087";
@@ -725,9 +726,11 @@
 }
 .icon-social-twitter:before {
   content: "\e009";
+  color:#FFCB05
 }
 .icon-social-facebook:before {
   content: "\e00b";
+  color:#FFCB05
 }
 .icon-social-instagram:before {
   content: "\e609";
