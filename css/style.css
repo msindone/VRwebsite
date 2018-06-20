@@ -8,7 +8,7 @@ body {
   overflow-x: hidden; }
 
 p {
-  font-size: 8px; }
+  font-size: 20px; }
 
 p.small {
   font-size: 6px; }
@@ -29,7 +29,8 @@ h5,
 h6 {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
-  text-transform: uppercase; }
+  text-transform: uppercase; 
+  font-size: 20px ;}
 
 hr.star-light,
 hr.star-primary {
