@@ -546,3 +546,12 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+  label,
+input[type="image"] {
+    margin-top: 1rem;
+}
+
+input[type="image"] {
+    width: 80px;
+}
